@@ -30,7 +30,3 @@ unsetenv VARIABLENAME
 .IP exit:
 exit 127
 .SH BUGS
-No current bugs. If any bugs are found please email <jose.alvarez-de-lugo@holbertonschool.com> or <william.dyrlandmarquis@holbertonschool.com>
-.SH AUTHORS
-william Dyrland-Marquis
-Jose Alvarez de Lugo
